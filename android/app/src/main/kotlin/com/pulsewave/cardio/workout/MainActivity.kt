@@ -1,4 +1,4 @@
-package com.pulsefit.workout.hiit
+package com.pulsewave.cardio.workout
 
 import io.flutter.embedding.android.FlutterActivity
 
